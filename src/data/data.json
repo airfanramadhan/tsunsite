@@ -1,0 +1,146 @@
+{
+  "Header": {
+    "title": "TsunSite",
+    "paragraph": "selamat datang di website penyebab dan penanggulangan TSUNAMI di Indonesia"
+  },
+  "About": {
+    "paragraph": "Website ini kami buat untuk memberi informasi khususnya masyarakat Indonesia tentang penyebab dan cara penanggulangan bencana Tsunami yang ditambah juga dengan history bencana tsunami yang pernah terjadi di Indonesia, didirikan sejak tahun 2024 kami berharap website ini dapat berguna bagi seluruh masyarakat Indonesia dimanapun berada.",
+    "Why": [
+      "Memberi informasi terkait penyebab tsunami",
+      "Memberi informasi terkait penanggulangan tsunami",
+      "Memberi informasi terkait metode penyelamatan saat bencana tsunami",
+      "Menyalurkan informasi terkait apabila ada bencana tsunami kepada BMKG"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/01-large.png",
+      "smallImage": "img/portfolio/01-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/02-large.png",
+      "smallImage": "img/portfolio/02-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/03-large.png",
+      "smallImage": "img/portfolio/03-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/04-large.png",
+      "smallImage": "img/portfolio/04-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/05-large.png",
+      "smallImage": "img/portfolio/05-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/06-large.png",
+      "smallImage": "img/portfolio/06-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/07-large.png",
+      "smallImage": "img/portfolio/07-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/08-large.png",
+      "smallImage": "img/portfolio/08-small.png"
+    },
+    {
+      "title": "History",
+      "largeImage": "img/portfolio/09-large.png",
+      "smallImage": "img/portfolio/09-small.png"
+    }
+  ],
+  "Penanggulangan": [
+    {
+      "name": "Pahami Peringatan Dini",
+      "text": "Kenali gejala peringatan tsunami seperti gempa bumi kuat atau lonjakan air laut."
+    },
+    {
+      "name": "Evakuasi Awal",
+      "text": "Segera lakukan evakuasi diri dan ikuti jalur evakuasi yang telah ditentukan dan patuhi petunjuk dari pihak berwenang."
+    },
+    {
+      "name": "Komunikasi",
+      "text": "Berusahalah sebisa mungkin untuk berkomunikasi dengan keluarga dan teman teman untuk saling memastikan keselamatan masing masing."
+    },
+    {
+      "name": "Keselamatan Pasca Tsunami",
+      "text": "Perhatikan cidera yang dialami diri sendiri dan coba untuk mendapatkan pertolongan pertama sebelum membantu orng lain yang terluka atau terjebak dalam reruntuhan."
+    },
+    {
+      "name": "Sosialisasikan Mitigasi",
+      "text": "Pada daerah rawan bencana atau tidak, sosialisasi mitigasi merupakan edukasi yang penting dibagikan agar lebih banyak masyarakat yang lebih paham bagaimana cara persiapan hingga evakuasi saat terjadi bencana."
+    },
+    {
+      "name": "Langkah Persiapan",
+      "text": "anam mangrove serta tanaman lainnya sepanjang garis pantai untuk meredam air tsunami."
+    }
+  ],
+  "Basarnas": [
+    {
+      "img": "img/testimonials/01.png",
+      "text": "contact Person : 024 762919",
+      "name": "Basarnas Kota Semarang"
+    },
+    {
+      "img": "img/testimonials/02.png",
+      "text": "contact Person : 021 65701116",
+      "name": "Basarnas Kota Jakarta"
+    },
+    {
+      "img": "img/testimonials/03.png",
+      "text": "contact Person : 031 8666611",
+      "name": "Basarnas Kota Surabaya"
+    },
+    {
+      "img": "img/testimonials/04.png",
+      "text": "Contact Person : 022 7780437",
+      "name": "Basarnas Kota Bandung"
+    },
+    {
+      "img": "img/testimonials/05.png",
+      "text": "Contact Person : 081 1447115",
+      "name": "Basarnas Kota Makassar"
+    },
+    {
+      "img": "img/testimonials/06.png",
+      "text": "Contact Person : 0542 765425",
+      "name": "Basarnas Kota Balikpapan"
+    }
+  ],
+  "Kontak": {
+    "address": "Jalan hati hati banyak anak anak",
+    "phone": "0812345678",
+    "email": "iniemail@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Penyebab": [
+    {
+      "title": "Gempa Bumi",
+      "text": "Jika patahan gempa bumi yang terjadi di darat memanjang hingga masuk ke lempengan yang berada di laut, maka hal tersebut dapat menyebabkan tsunami."
+    },
+    {
+      "title": "Longsor Bawah Laut",
+      "text": "berpengaruh pada pergerakan volume air yang mendadak dan pada skala tertentu bisa menjadi faktor penyebab tsunami."
+    },
+    {
+      "title": "Hantaman Meteor",
+      "text": "meteor yang jatuh ke permukaan laut dapat menyebabkan ketidakseimbangan lempeng laut yang mengakibatkan gempa dan tsunami yang sangat besar."
+    },
+    {
+      "title": "Letusan Gunung Berapi",
+      "text": "Letusan dari gunung berapi menyebabkan terjadinya gempa vulkanik. Sementara itu, letusan gunung berapi di dasar laut dapat menjadi faktor penyebab tsunami."
+    }
+  ]
+}

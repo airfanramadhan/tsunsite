@@ -1,0 +1,17 @@
+@media screen and (max-width: 400px) {
+  #Penyebab {
+    padding: 20px;
+    width: 111%;
+  }
+  #Penanggulangan,
+  #testimonials,
+  #about,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
